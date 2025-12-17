@@ -3,7 +3,7 @@
   <br>
   <img alt="Visitors" src="https://komarev.com/ghpvc/?username=Parsa5436&label=Profile%20Visits&style=for-the-badge" />
   <br>
-  <a href="[https://t.me/Parsa5436](https://t.me/EmadHabibnia  )">
+  <a href="[https:https://t.me/EmadHabibnia ">
     <img src="https://img.shields.io/endpoint?url=https://runkit.io/damiankrawczyk/telegram-badge/branches/master?url=https://t.me/Parsa5436&style=for-the-badge" alt="Telegram channel">
   </a>
 </div>
