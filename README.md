@@ -12,12 +12,16 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
-# 👋 سلام، من عماد هستم | Hi, I'm Emad
 
-Frontend Developer | HTML, CSS, JavaScript, Bootstrap  
-WordPress | Python | VPS Management  
+<h1>👋 سلام، من عماد هستم</h1>
+<h2>Hi, I'm Emad</h2>
+
+<h3>Frontend Developer</h3>
+<h3>HTML • CSS • JavaScript • Bootstrap</h3>
+<h3>WordPress • Python • VPS Management</h3>
 
 </div>
+
 
 ---
 
