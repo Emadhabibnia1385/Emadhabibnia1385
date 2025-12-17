@@ -1,4 +1,15 @@
 <div align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake" />
+  <br>
+  <img alt="Visitors" src="https://komarev.com/ghpvc/?username=Parsa5436&label=Profile%20Visits&style=for-the-badge" />
+  <br>
+  <a href="https://t.me/Parsa5436">
+    <img src="https://img.shields.io/endpoint?url=https://runkit.io/damiankrawczyk/telegram-badge/branches/master?url=https://t.me/Parsa5436&style=for-the-badge" alt="Telegram channel">
+  </a>
+</div>
+
+<!-- Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 # 👋 سلام، من عماد هستم | Hi, I'm Emad
 
