@@ -4,24 +4,23 @@
   <a href="https://nyxon.tech/en/people/emad-habibnia"><img src="./assets/hero.svg" width="100%" alt="Emad Habibnia — software product builder and founder of NYXON. From an idea to a team."></a>
 </p>
 
-<p align="center">🌐 <b>English</b> · <a href="https://github.com/Emadhabibnia1385/Emadhabibnia1385/blob/main/README.fa.md">فارسی</a> · <a href="https://github.com/Emadhabibnia1385/Emadhabibnia1385/blob/main/README.ru.md">Русский</a> · <a href="https://github.com/Emadhabibnia1385/Emadhabibnia1385/blob/main/README.ar.md">العربية</a> · <a href="https://github.com/Emadhabibnia1385/Emadhabibnia1385/blob/main/README.zh.md">中文</a></p>
+<p align="center">🌐 <a href="https://github.com/Emadhabibnia1385">English</a> · <a href="https://github.com/Emadhabibnia1385/Emadhabibnia1385/blob/main/README.fa.md">فارسی</a> · <b>Русский</b> · <a href="https://github.com/Emadhabibnia1385/Emadhabibnia1385/blob/main/README.ar.md">العربية</a> · <a href="https://github.com/Emadhabibnia1385/Emadhabibnia1385/blob/main/README.zh.md">中文</a></p>
 
 <p align="center">
   <a href="https://nyxon.tech/en"><img alt="NYXON" src="https://img.shields.io/badge/NYXON-founder-E9BB79?style=for-the-badge&labelColor=090B14"></a>
   <a href="https://nyxon.tech/en/people/emad-habibnia"><img alt="nyxon.tech" src="https://img.shields.io/badge/r%C3%A9sum%C3%A9-nyxon.tech-C4C6F8?style=for-the-badge&labelColor=090B14"></a>
   <a href="https://github.com/nyxon-tech"><img alt="nyxon-tech" src="https://img.shields.io/badge/org-nyxon--tech-8C8FD4?style=for-the-badge&logo=github&logoColor=white&labelColor=090B14"></a>
-  <img alt="Profile views" src="https://komarev.com/ghpvc/?username=Emadhabibnia1385&label=views&color=636DB6&style=for-the-badge&labelColor=090B14">
 </p>
 
-### Hi, I'm Emad 👋
+### Привет, я Эмад 👋
 
-I believe a good product is built from more than code — it brings together <b>ideas, people, design and infrastructure</b>. That belief became <b>[NYXON](https://nyxon.tech/en)</b>, a software studio at the Mashhad Innovation Factory that I founded with [Parsa Amirabadi](https://github.com/Parsa5436) and [Mohammad Saeed Babaei](https://github.com/qqsaeedpp). We build web products, AI experiences and automation — <i>systems that work while you sleep.</i>
+Я считаю, что хороший продукт — это не только код: в нём сходятся <b>идеи, люди, дизайн и инфраструктура</b>. Из этой мысли выросла <b>[NYXON](https://nyxon.tech/en)</b> — студия разработки в Mashhad Innovation Factory, которую я основал вместе с [Парсой Амирабади](https://github.com/Parsa5436) и [Мохаммадом Саидом Бабаи](https://github.com/qqsaeedpp). Мы делаем веб-продукты, AI-решения и автоматизацию — <i>системы, которые работают, пока вы спите.</i>
 
-I build Telegram bots and Mini Apps, tools for small businesses, automation, and the Linux servers that keep it all running. My main product these days is <b>[Seamless](https://seamless.nyxon.tech/)</b>, a commerce platform on Telegram.
+Я создаю Telegram-ботов и Mini Apps, инструменты для малого бизнеса, автоматизацию и Linux-серверы, на которых всё это держится. Мой основной продукт сейчас — <b>[Seamless](https://seamless.nyxon.tech/)</b>, платформа для продаж в Telegram.
 
 <br>
 
-## ◆ Selected work
+## ◆ Избранные проекты
 
 <table>
   <tr>
@@ -42,11 +41,11 @@ I build Telegram bots and Mini Apps, tools for small businesses, automation, and
   </tr>
 </table>
 
-<p align="center"><sub><a href="https://github.com/Emadhabibnia1385?tab=repositories">Browse all repositories →</a></sub></p>
+<p align="center"><sub><a href="https://github.com/Emadhabibnia1385?tab=repositories">Все репозитории →</a></sub></p>
 
 <br>
 
-## ◆ Toolbox
+## ◆ Инструменты
 
 <p align="center">
   <img src="./assets/stack.svg" width="100%" alt="Toolbox: backend, Telegram, frontend, infra, network, AI and tooling.">
@@ -57,7 +56,7 @@ I build Telegram bots and Mini Apps, tools for small businesses, automation, and
 
 <br>
 
-## ◆ By the numbers
+## ◆ В цифрах
 
 <p align="center">
   <img src="./assets/activity.svg" width="100%" alt="Contribution activity over the last 12 months">
@@ -74,7 +73,7 @@ I build Telegram bots and Mini Apps, tools for small businesses, automation, and
 
 <br>
 
-## ◆ Reach me
+## ◆ Связаться
 
 <p align="center">
   <a href="https://t.me/Emad_Habibnia"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-%40Emad__Habibnia-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&labelColor=090B14"></a>
@@ -84,4 +83,4 @@ I build Telegram bots and Mini Apps, tools for small businesses, automation, and
   <a href="https://discord.gg/z9K2BrsZNS"><img alt="Discord" src="https://img.shields.io/badge/Discord-emadhabibnia-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=090B14"></a>
 </p>
 
-<p align="center"><sub><code>☾</code> Think · Build · Ship — systems that work while you sleep.</sub></p>
+<p align="center"><sub><code>☾</code> Думать · Строить · Запускать — системы, которые работают, пока вы спите.</sub></p>

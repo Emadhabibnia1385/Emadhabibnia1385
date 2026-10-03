@@ -5,8 +5,8 @@ const GROUPS = [
   ["BACKEND", "#6C8CFF", ["Python", "FastAPI", "Flask", "pyTelegramBotAPI", "SQLite", "PostgreSQL"]],
   ["TELEGRAM", "#4FD1C5", ["Bot API", "Mini Apps", "Webhooks", "Inline UI", "Payments", "Premium emoji"]],
   ["FRONTEND", "#C4C6F8", ["React", "TypeScript", "TanStack", "Tailwind", "Bootstrap", "WordPress"]],
-  ["INFRA", "#E9BB79", ["Linux", "systemd", "Nginx", "Docker", "Cloudflare", "Bash", "Ubuntu", "Backups"]],
-  ["VPN &amp; NETWORK", "#F28B82", ["Xray", "3x-ui", "PasarGuard", "Marzban", "Reality", "SSH tunnels", "Hiddify", "WireGuard"]],
+  ["INFRA", "#E9BB79", ["Linux", "systemd", "Nginx", "Docker", "Cloudflare", "Bash", "Ubuntu", "Cron"]],
+  ["NETWORK", "#F28B82", ["DNS", "SSL / TLS", "Reverse proxy", "SSH tunnels", "WireGuard", "Monitoring", "Backups"]],
   ["AI &amp; TOOLING", "#8C8FD4", ["Claude Code", "Agent skills", "Go", "GitHub Actions", "Git", "MCP", "Codex"]],
 ];
 const W = 1200, cols = 3, cw = 352, ch = 196, gx = 24, gy = 24, top = 84;
