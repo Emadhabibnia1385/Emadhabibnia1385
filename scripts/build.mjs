@@ -60,7 +60,7 @@ ${body}
 `;
 }
 
-// ── Contributions (public calendar HTML, no token needed) ─────────────────
+// ── Contributions (profile calendar HTML, incl. private counts; no token needed) ─────────────────
 async function contributions() {
   const html = await (await fetch(`https://github.com/users/${USER}/contributions`, { headers: { "User-Agent": headers["User-Agent"] } })).text();
   const dates = {};
@@ -132,7 +132,7 @@ function activitySvg(days) {
     @media (prefers-reduced-motion: reduce) { .pk { animation: none; } }
   </style>
   <text x="48" y="54" font-size="12" letter-spacing="2.4" fill="${C.periwinkle}" font-family="${MONO}">SHIPPING CADENCE</text>
-  <text x="${x0}" y="54" font-size="12" letter-spacing="2.4" fill="${C.dim}" font-family="${MONO}">CONTRIBUTIONS PER MONTH · PUBLIC</text>
+  <text x="${x0}" y="54" font-size="12" letter-spacing="2.4" fill="${C.dim}" font-family="${MONO}">CONTRIBUTIONS PER MONTH · PUBLIC + PRIVATE</text>
   <text x="${x1}" y="54" font-size="12" text-anchor="end" fill="${C.dim}" font-family="${MONO}">updated ${new Date().toISOString().slice(0, 10)}</text>
   ${statsSvg}
   <line x1="352" x2="352" y1="92" y2="300" stroke="${C.line}"/>
@@ -141,7 +141,7 @@ function activitySvg(days) {
   ${bars}`;
   return card(W, H, body, {
     title: "Emad's GitHub activity",
-    desc: `${total} public contributions in the last 12 months, ${active} active days, longest streak ${longest} days. Busiest month: ${peak?.[0]} with ${peak?.[1]}.`,
+    desc: `${total} contributions (public and private) in the last 12 months, ${active} active days, longest streak ${longest} days. Busiest month: ${peak?.[0]} with ${peak?.[1]}.`,
   });
 }
 
