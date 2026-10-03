@@ -99,8 +99,4 @@ My own corner of it: **commerce on Telegram**, the bots and Mini Apps people act
   <a href="https://discord.gg/z9K2BrsZNS"><img alt="Discord" src="https://img.shields.io/badge/Discord-emadhabibnia-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=090B14"></a>
 </p>
 
-<p align="center">
-  <sub><a href="https://t.me/HarfinoBot?start=efeb0790cd08d2d">anonymous message</a></sub>
-</p>
-
 <p align="center"><sub><code>☾</code> Think · Build · Ship — systems that work while you sleep.</sub></p>
