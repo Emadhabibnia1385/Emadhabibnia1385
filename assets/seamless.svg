@@ -1,0 +1,122 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="700" viewBox="0 0 1200 700" role="img" aria-labelledby="t d" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">
+  <title id="t">Seamless architecture</title>
+  <desc id="d">A store owner buys a plan from the management bot; the License Center issues a machine-bound license; the Process Manager installs and runs the store's own bot. Each store bot can spawn reseller (agency) bots, and talks to VPN panels, payment gateways, a Telegram Mini App and its customers. 190+ store bots live, 210k+ lines of Python, 20k+ lines of Mini App, 5 VPN panel types.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0F1226"/><stop offset="1" stop-color="#090B14"/></linearGradient>
+    <linearGradient id="brand" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#C4C6F8"/><stop offset="1" stop-color="#636DB6"/></linearGradient>
+    <radialGradient id="glow" cx=".85" cy=".3" r=".5"><stop offset="0" stop-color="#636DB6" stop-opacity=".22"/><stop offset="1" stop-color="#636DB6" stop-opacity="0"/></radialGradient>
+    <marker id="arw" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0 10 5 0 10z" fill="#8C8FD4"/></marker>
+    <symbol id="node" viewBox="0 0 196 104"><rect x=".5" y=".5" width="195" height="103" rx="16" fill="#12152C" stroke="#2A2F55"/></symbol>
+  </defs>
+  <style>
+    .flow { stroke-dasharray: 5 7; animation: flow 1.2s linear infinite; }
+    @keyframes flow { to { stroke-dashoffset: -24; } }
+    .pulse { animation: pulse 2.4s ease-in-out infinite; }
+    @keyframes pulse { 50% { opacity: .35; } }
+    .k { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; font-size: 11px; letter-spacing: 2px; }
+    .h { font-size: 17px; font-weight: 700; fill: #F4F0E8; }
+    .p { font-size: 13px; fill: #9EA6C9; }
+    @media (prefers-reduced-motion: reduce) { .flow, .pulse { animation: none; } }
+  </style>
+
+  <rect width="1200" height="700" rx="24" fill="url(#bg)"/>
+  <rect width="1200" height="700" rx="24" fill="url(#glow)"/>
+  <rect x=".5" y=".5" width="1199" height="699" rx="23.5" fill="none" stroke="#202440"/>
+
+  <text x="48" y="56" class="k" fill="#E9BB79">SEAMLESS · SUBSCRIPTION COMMERCE ON TELEGRAM</text>
+  <text x="48" y="88" font-size="24" font-weight="800" fill="#F4F0E8" letter-spacing="-.4">One system, many stores.</text>
+  <text x="344" y="88" font-size="16" fill="#8C8FD4">Every store runs its own bot, customers and pricing — provisioned automatically.</text>
+
+  <!-- control plane -->
+  <text x="48" y="138" class="k" fill="#777CAD">CONTROL PLANE</text>
+  <line x1="190" x2="904" y1="134" y2="134" stroke="#202440"/>
+
+  <g transform="translate(48 156)">
+    <use href="#node" width="196" height="104"/>
+    <text x="20" y="30" class="k" fill="#8C8FD4">01</text>
+    <text x="20" y="58" class="h">Store owner</text>
+    <text x="20" y="80" class="p">buys or renews a plan</text>
+  </g>
+  <g transform="translate(268 156)">
+    <use href="#node" width="196" height="104"/>
+    <text x="20" y="30" class="k" fill="#8C8FD4">02</text>
+    <text x="20" y="58" class="h">Management bot</text>
+    <text x="20" y="80" class="p">sales · renewals · support</text>
+  </g>
+  <g transform="translate(488 156)">
+    <use href="#node" width="196" height="104"/>
+    <text x="20" y="30" class="k" fill="#8C8FD4">03</text>
+    <text x="20" y="58" class="h">License Center</text>
+    <text x="20" y="80" class="p">issue · validate · bind</text>
+  </g>
+  <g transform="translate(708 156)">
+    <use href="#node" width="196" height="104"/>
+    <text x="20" y="30" class="k" fill="#8C8FD4">04</text>
+    <text x="20" y="58" class="h">Process Manager</text>
+    <text x="20" y="80" class="p">install · run · update bots</text>
+  </g>
+
+  <g fill="none" stroke="#8C8FD4" stroke-width="1.6" marker-end="url(#arw)">
+    <path d="M246 208H264" /><path d="M466 208H484"/><path d="M686 208H704"/>
+    <path d="M906 208H928" class="flow"/>
+  </g>
+
+  <!-- the fleet -->
+  <g transform="translate(934 124)">
+    <rect width="218" height="248" rx="18" fill="#636DB6" fill-opacity=".08" stroke="url(#brand)" stroke-width="1.4"/>
+    <text x="18" y="30" class="k" fill="#C4C6F8">STORE BOTS</text>
+    <circle cx="196" cy="25" r="4" fill="#6EE7A8" class="pulse"/>
+    <g font-size="13.5" font-weight="600">
+      <rect x="16" y="48" width="186" height="38" rx="11" fill="#171B38" stroke="#3B4673"/>
+      <text x="32" y="72" fill="#F4F0E8">@store_alpha</text><text x="188" y="72" text-anchor="end" class="k" fill="#E9BB79" style="font-size:10px">PARENT</text>
+      <rect x="16" y="94" width="186" height="38" rx="11" fill="#171B38" stroke="#3B4673"/>
+      <text x="32" y="118" fill="#F4F0E8">@store_beta</text><text x="188" y="118" text-anchor="end" class="k" fill="#E9BB79" style="font-size:10px">PARENT</text>
+      <rect x="40" y="140" width="162" height="34" rx="10" fill="#12152C" stroke="#3B4673" stroke-dasharray="3 3"/>
+      <text x="54" y="162" fill="#B9C6DE" font-size="12.5">↳ reseller_one</text><text x="190" y="162" text-anchor="end" class="k" fill="#8C8FD4" style="font-size:10px">CHILD</text>
+      <rect x="40" y="180" width="162" height="34" rx="10" fill="#12152C" stroke="#3B4673" stroke-dasharray="3 3"/>
+      <text x="54" y="202" fill="#B9C6DE" font-size="12.5">↳ reseller_two</text><text x="190" y="202" text-anchor="end" class="k" fill="#8C8FD4" style="font-size:10px">CHILD</text>
+    </g>
+    <text x="109" y="236" text-anchor="middle" font-size="12" fill="#777CAD">… one bot per store</text>
+  </g>
+
+  <!-- data plane -->
+  <path d="M1043 374V420H177V444M1033 420V444M761 420V444M469 420V444" fill="none" stroke="#636DB6" stroke-width="1.6" class="flow"/>
+  <text x="48" y="412" class="k" fill="#777CAD">EVERY STORE BOT TALKS TO</text>
+
+  <g transform="translate(48 448)">
+    <rect width="258" height="112" rx="16" fill="#12152C" stroke="#2A2F55"/>
+    <text x="20" y="34" class="h">VPN panels</text>
+    <text x="20" y="58" class="p">3x-ui · PasarGuard · Marzban</text>
+    <text x="20" y="78" class="p">Hiddify · Marzneshin</text>
+    <text x="20" y="98" class="p" fill="#777CAD">live accounts, not stock</text>
+  </g>
+  <g transform="translate(340 448)">
+    <rect width="258" height="112" rx="16" fill="#12152C" stroke="#2A2F55"/>
+    <text x="20" y="34" class="h">Payments</text>
+    <text x="20" y="58" class="p">card-to-card, auto-verified</text>
+    <text x="20" y="78" class="p">crypto · TON · gateways</text>
+    <text x="20" y="98" class="p" fill="#777CAD">wallet · invoices · receipts</text>
+  </g>
+  <g transform="translate(632 448)">
+    <rect width="258" height="112" rx="16" fill="#12152C" stroke="#2A2F55"/>
+    <text x="20" y="34" class="h">Mini App</text>
+    <text x="20" y="58" class="p">React + FastAPI inside Telegram</text>
+    <text x="20" y="78" class="p">shop · wallet · my services</text>
+    <text x="20" y="98" class="p" fill="#777CAD">same data, nicer hands</text>
+  </g>
+  <g transform="translate(914 448)">
+    <rect width="238" height="112" rx="16" fill="#E9BB79" fill-opacity=".07" stroke="#E9BB79" stroke-opacity=".45"/>
+    <text x="20" y="34" class="h">Customers</text>
+    <text x="20" y="58" class="p">buy · renew · top up</text>
+    <text x="20" y="78" class="p">configs delivered instantly</text>
+    <text x="20" y="98" class="p" fill="#E9BB79" fill-opacity=".8">while the owner sleeps ☾</text>
+  </g>
+  <!-- by the numbers -->
+  <line x1="48" x2="1152" y1="592" y2="592" stroke="#202440"/>
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
+    <g transform="translate(48 646)"><text font-size="34" font-weight="700" fill="#E9BB79" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif">190+</text><text x="96" y="-14" font-size="12" letter-spacing="1.6" fill="#C4C6F8">STORE BOTS</text><text x="96" y="4" font-size="12" letter-spacing="1.6" fill="#777CAD">LIVE IN PRODUCTION</text><circle cx="250" cy="-14" r="4" fill="#6EE7A8" class="pulse"/></g>
+    <g transform="translate(332 646)"><text font-size="34" font-weight="700" fill="#F4F0E8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif">210k+</text><text x="126" y="-14" font-size="12" letter-spacing="1.6" fill="#C4C6F8">LINES OF PYTHON</text><text x="126" y="4" font-size="12" letter-spacing="1.6" fill="#777CAD">BOT + LICENSE</text></g>
+    <g transform="translate(624 646)"><text font-size="34" font-weight="700" fill="#F4F0E8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif">20k+</text><text x="106" y="-14" font-size="12" letter-spacing="1.6" fill="#C4C6F8">LINES MINI APP</text><text x="106" y="4" font-size="12" letter-spacing="1.6" fill="#777CAD">REACT + FASTAPI</text></g>
+    <g transform="translate(906 646)"><text font-size="34" font-weight="700" fill="#F4F0E8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif">5</text><text x="34" y="-14" font-size="12" letter-spacing="1.6" fill="#C4C6F8">VPN PANEL TYPES</text><text x="34" y="4" font-size="12" letter-spacing="1.6" fill="#777CAD">LIVE ACCOUNTS</text></g>
+  </g>
+</svg>

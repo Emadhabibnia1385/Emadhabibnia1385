@@ -1,0 +1,113 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="440" viewBox="0 0 1200 440" role="img" aria-labelledby="t d" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">
+  <title id="t">Emad Habibnia — software product builder and founder of NYXON</title>
+  <desc id="d">Night-sky hero with Emad's name in English and Persian, the line "From an idea to a team", and an animated Telegram chat where a Seamless store bot sells a plan and delivers the config.</desc>
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#11142A"/><stop offset=".55" stop-color="#0B0D1A"/><stop offset="1" stop-color="#090B14"/></linearGradient>
+    <radialGradient id="glow" cx=".78" cy=".2" r=".6"><stop offset="0" stop-color="#636DB6" stop-opacity=".38"/><stop offset="1" stop-color="#636DB6" stop-opacity="0"/></radialGradient>
+    <radialGradient id="glow2" cx=".05" cy="1" r=".55"><stop offset="0" stop-color="#E9BB79" stop-opacity=".10"/><stop offset="1" stop-color="#E9BB79" stop-opacity="0"/></radialGradient>
+    <linearGradient id="brand" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#C4C6F8"/><stop offset="1" stop-color="#636DB6"/></linearGradient>
+    <linearGradient id="me" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#7A84D0"/><stop offset="1" stop-color="#565FA6"/></linearGradient>
+    <clipPath id="frame"><rect width="1200" height="440" rx="24"/></clipPath>
+  </defs>
+  <style>
+    .tw { animation: tw 4s ease-in-out infinite; }
+    @keyframes tw { 50% { opacity: .15; } }
+    .cur { animation: blink 1.1s steps(1) infinite; }
+    @keyframes blink { 50% { opacity: 0; } }
+    .ok { animation: ok 2.6s ease-in-out infinite; }
+    @keyframes ok { 50% { stroke-opacity: .9; } }
+    @media (prefers-reduced-motion: reduce) { .tw, .cur, .ok { animation: none; } }
+  </style>
+
+  <g clip-path="url(#frame)">
+    <rect width="1200" height="440" fill="url(#sky)"/>
+    <rect width="1200" height="440" fill="url(#glow)"/>
+    <rect width="1200" height="440" fill="url(#glow2)"/>
+
+    <!-- stars -->
+    <g fill="#F4F0E8">
+      <circle cx="84" cy="34" r="1.1" class="tw"/>
+      <circle cx="212" cy="96" r=".8" opacity=".6"/>
+      <circle cx="318" cy="28" r="1.2" class="tw" style="animation-delay:1.3s"/>
+      <circle cx="455" cy="70" r=".9" opacity=".5"/>
+      <circle cx="562" cy="22" r="1.3" class="tw" style="animation-delay:.6s"/>
+      <circle cx="640" cy="118" r=".8" opacity=".55"/>
+      <circle cx="690" cy="44" r="1" class="tw" style="animation-delay:2.2s"/>
+      <circle cx="604" cy="396" r="1" class="tw" style="animation-delay:1.7s"/>
+      <circle cx="520" cy="418" r=".8" opacity=".4"/>
+      <circle cx="36" cy="402" r="1.1" class="tw" style="animation-delay:2.8s"/>
+      <circle cx="148" cy="420" r=".7" opacity=".45"/>
+      <circle cx="1170" cy="400" r="1.2" class="tw" style="animation-delay:.9s"/>
+      <circle cx="1176" cy="120" r=".9" opacity=".5"/>
+      <circle cx="712" cy="250" r=".9" class="tw" style="animation-delay:3.1s"/>
+    </g>
+    <!-- crescent -->
+    <g transform="translate(712 96)" opacity=".9">
+      <circle r="26" fill="#E9BB79" opacity=".14"/>
+      <path d="M8-18a19 19 0 1 0 10 34A16 16 0 1 1 8-18Z" fill="#E9BB79" opacity=".85"/>
+    </g>
+  </g>
+  <rect x=".5" y=".5" width="1199" height="439" rx="23.5" fill="none" stroke="#202440"/>
+
+  <!-- left: identity -->
+  <g transform="translate(64 0)">
+    <g transform="translate(0 52)">
+      <rect width="40" height="40" rx="11" fill="none" stroke="url(#brand)" stroke-width="1.6"/>
+      <path d="M24 9a12 12 0 1 0 7 21A10 10 0 1 1 24 9Z" fill="url(#brand)"/>
+    </g>
+    <text x="56" y="78" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14" letter-spacing="2.6" fill="#8C8FD4">SOFTWARE PRODUCT BUILDER<tspan fill="#4A507E">  ·  </tspan><tspan fill="#777CAD">MASHHAD</tspan><tspan class="cur" fill="#E9BB79"> ▍</tspan></text>
+
+    <text x="-3" y="170" font-size="66" font-weight="800" fill="#F4F0E8" letter-spacing="-2">Emad Habibnia</text>
+    <text x="0" y="214" font-size="27" font-weight="600" fill="#E9BB79" font-family="'Vazirmatn', 'SF Arabic', Tahoma, 'Segoe UI', sans-serif">عماد حبیب‌نیا</text>
+    <text x="200" y="213" font-size="24" fill="#C4C6F8" font-weight="500">From an idea to a team.</text>
+
+    <text x="0" y="262" font-size="17" fill="#B9C6DE">Founder of <tspan fill="#F4F0E8" font-weight="700">NYXON</tspan>. I build Telegram commerce, automation,</text>
+    <text x="0" y="288" font-size="17" fill="#B9C6DE">and the infrastructure that keeps it all running — while you sleep.</text>
+
+    <g transform="translate(0 326)" font-size="13.5" font-weight="600">
+      <rect width="146" height="34" rx="17" fill="#E9BB79" fill-opacity=".12" stroke="#E9BB79" stroke-opacity=".5"/>
+      <text x="73" y="22" text-anchor="middle" fill="#E9BB79">◐  NYXON founder</text>
+      <rect x="156" width="168" height="34" rx="17" fill="#636DB6" fill-opacity=".14" stroke="#636DB6" stroke-opacity=".7"/>
+      <text x="240" y="22" text-anchor="middle" fill="#C4C6F8">Telegram commerce</text>
+      <rect x="334" width="118" height="34" rx="17" fill="#636DB6" fill-opacity=".14" stroke="#636DB6" stroke-opacity=".7"/>
+      <text x="393" y="22" text-anchor="middle" fill="#C4C6F8">Automation</text>
+      <rect x="462" width="128" height="34" rx="17" fill="#636DB6" fill-opacity=".14" stroke="#636DB6" stroke-opacity=".7"/>
+      <text x="526" y="22" text-anchor="middle" fill="#C4C6F8">Linux · VPS</text>
+    </g>
+  </g>
+
+  <!-- right: Seamless chat -->
+  <g transform="translate(772 40)">
+    <rect width="372" height="360" rx="22" fill="#0E1120" stroke="#2A2F55"/>
+    <path d="M0 22A22 22 0 0 1 22 0H350A22 22 0 0 1 372 22V62H0Z" fill="#141834"/>
+    <circle cx="36" cy="31" r="17" fill="url(#brand)"/>
+    <text x="36" y="37" text-anchor="middle" font-size="16" font-weight="800" fill="#0B0D1A">S</text>
+    <text x="64" y="27" font-size="15" font-weight="700" fill="#F4F0E8">Seamless · Your store</text>
+    <text x="64" y="46" font-size="12" fill="#8C8FD4">bot · online</text>
+    <circle cx="346" cy="31" r="4" fill="#6EE7A8"/>
+
+    <g>
+      <rect x="146" y="80" width="208" height="38" rx="14" fill="url(#me)"/>
+      <text x="162" y="104" font-size="14" fill="#F4F0E8">Hi! I need a 30-day plan 👋</text>
+    </g>
+    <g>
+      <rect x="18" y="130" width="250" height="38" rx="14" fill="#1A1E3A"/>
+      <text x="34" y="154" font-size="14" fill="#E6E6E7">Pick a plan — delivery is instant 👇</text>
+    </g>
+    <g font-size="13" font-weight="600">
+      <rect x="18" y="176" width="336" height="32" rx="10" fill="#636DB6" fill-opacity=".18" stroke="#636DB6" stroke-opacity=".6"/>
+      <text x="186" y="197" text-anchor="middle" fill="#C4C6F8">🚀  30 days · 50 GB  —  120,000 T</text>
+      <rect x="18" y="214" width="336" height="32" rx="10" fill="#636DB6" fill-opacity=".1" stroke="#636DB6" stroke-opacity=".35"/>
+      <text x="186" y="235" text-anchor="middle" fill="#9EA2DA">⚡  90 days · 150 GB</text>
+    </g>
+    <g>
+      <rect x="200" y="258" width="154" height="34" rx="14" fill="url(#me)"/>
+      <text x="216" y="280" font-size="14" fill="#F4F0E8">✓ Paid by card</text>
+    </g>
+    <g>
+      <rect x="18" y="302" width="300" height="44" rx="14" fill="#1A1E3A" stroke="#6EE7A8" stroke-opacity=".35" class="ok"/>
+      <text x="34" y="320" font-size="13" font-weight="700" fill="#6EE7A8">✅ Payment verified · config ready</text>
+      <text x="34" y="337" font-size="12" fill="#8C8FD4" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">vless://••••••@edge · sub link · QR</text>
+    </g>
+  </g>
+</svg>
