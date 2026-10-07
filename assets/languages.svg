@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="250" viewBox="0 0 1200 250" role="img" aria-labelledby="t d" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">
-  <title id="t">Languages across Emad's repositories</title><desc id="d">Python 76.0%, Go 17.5%, Shell 6.0%, Other 0.4%</desc>
+  <title id="t">Languages across Emad's repositories</title><desc id="d">Python 76.0%, Go 17.5%, Shell 6.1%, Other 0.4%</desc>
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0D1020"/><stop offset="1" stop-color="#090B14"/></linearGradient>
     <linearGradient id="brand" x1="0" y1="1" x2="0" y2="0"><stop offset="0" stop-color="#636DB6"/><stop offset="1" stop-color="#C4C6F8"/></linearGradient>
@@ -10,10 +10,10 @@
   <text x="48" y="54" font-size="12" letter-spacing="2.4" fill="#8C8FD4" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">CODE BY LANGUAGE</text>
   <text x="1152" y="54" font-size="12" text-anchor="end" fill="#8A8FB8" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">11 public repos · 3.6 MB of source</text>
   <rect x="48" y="104" width="1104" height="22" rx="6" fill="#202440"/>
-  <rect x="48" y="104" width="836.3468166030806" height="22" rx="6" fill="#6C8CFF"/>
-  <rect x="887.3468166030806" y="104" width="190.5866075793956" height="22" rx="6" fill="#4FD1C5"/>
-  <rect x="1080.9334241824763" y="104" width="63.76688186162278" height="22" rx="6" fill="#E9BB79"/>
-  <rect x="1147.700306044099" y="104" width="2" height="22" rx="6" fill="#3B4673"/>
+  <rect x="48" y="104" width="836.1318794459004" height="22" rx="6" fill="#6C8CFF"/>
+  <rect x="887.1318794459004" y="104" width="190.34970850938655" height="22" rx="6" fill="#4FD1C5"/>
+  <rect x="1080.4815879552868" y="104" width="64.22397978285287" height="22" rx="6" fill="#E9BB79"/>
+  <rect x="1147.7055677381397" y="104" width="2" height="22" rx="6" fill="#3B4673"/>
   
   <g transform="translate(48 172)">
     <circle cx="6" cy="-5" r="6" fill="#6C8CFF"/>
@@ -28,7 +28,7 @@
   <g transform="translate(600 172)">
     <circle cx="6" cy="-5" r="6" fill="#E9BB79"/>
     <text x="20" y="0" font-size="15" font-weight="600" fill="#F4F0E8">Shell</text>
-    <text x="20" y="20" font-size="12" fill="#8A8FB8" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">6.0%</text>
+    <text x="20" y="20" font-size="12" fill="#8A8FB8" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">6.1%</text>
   </g>
   <g transform="translate(876 172)">
     <circle cx="6" cy="-5" r="6" fill="#3B4673"/>

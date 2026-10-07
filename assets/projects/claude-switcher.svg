@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="600" height="220" viewBox="0 0 600 220" role="img" aria-labelledby="t d" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">
-  <title id="t">claude-switcher</title><desc id="d">Switch Claude Desktop accounts without signing in again, and keep every Claude Code chat with you. Windows, macOS and Linux: full-screen app and CLI, chat recovery, undo. — 0 stars, 0 forks.</desc>
+  <title id="t">claude-switcher</title><desc id="d">Switch Claude Desktop accounts without signing in again, and keep every Claude Code chat with you. Windows, macOS and Linux: full-screen app and CLI, chat recovery, undo. — 1 stars, 0 forks.</desc>
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0D1020"/><stop offset="1" stop-color="#090B14"/></linearGradient>
     <linearGradient id="brand" x1="0" y1="1" x2="0" y2="0"><stop offset="0" stop-color="#636DB6"/><stop offset="1" stop-color="#C4C6F8"/></linearGradient>
@@ -16,7 +16,7 @@
   <g transform="translate(32 194) scale(1.25)" font-size="13" fill="#8A8FB8">
     <circle cx="6" cy="-4.5" r="6" fill="#4FD1C5"/>
     <text x="18" y="0">Go</text>
-    <g transform="translate(120 -15)" fill="#8A8FB8"><path d="M8 .25a.75.75 0 0 1 .673.418l1.882 3.815 4.21.612a.75.75 0 0 1 .416 1.279l-3.046 2.97.719 4.192a.751.751 0 0 1-1.088.791L8 12.347l-3.766 1.98a.75.75 0 0 1-1.088-.79l.72-4.194L.818 6.374a.75.75 0 0 1 .416-1.28l4.21-.611L7.327.668A.75.75 0 0 1 8 .25Z"/></g><text x="142" y="0">0</text>
+    <g transform="translate(120 -15)" fill="#8A8FB8"><path d="M8 .25a.75.75 0 0 1 .673.418l1.882 3.815 4.21.612a.75.75 0 0 1 .416 1.279l-3.046 2.97.719 4.192a.751.751 0 0 1-1.088.791L8 12.347l-3.766 1.98a.75.75 0 0 1-1.088-.79l.72-4.194L.818 6.374a.75.75 0 0 1 .416-1.28l4.21-.611L7.327.668A.75.75 0 0 1 8 .25Z"/></g><text x="142" y="0">1</text>
     <g transform="translate(196 -15)" fill="#8A8FB8"><path d="M5 5.372v.878c0 .414.336.75.75.75h4.5a.75.75 0 0 0 .75-.75v-.878a2.25 2.25 0 1 1 1.5 0v.878a2.25 2.25 0 0 1-2.25 2.25h-1.5v2.128a2.251 2.251 0 1 1-1.5 0V8.5h-1.5A2.25 2.25 0 0 1 3.5 6.25v-.878a2.25 2.25 0 1 1 1.5 0ZM5 3.25a.75.75 0 1 0-1.5 0 .75.75 0 0 0 1.5 0Zm6.75.75a.75.75 0 1 0 0-1.5.75.75 0 0 0 0 1.5Zm-3 8.75a.75.75 0 1 0-1.5 0 .75.75 0 0 0 1.5 0Z"/></g><text x="218" y="0">0</text>
   </g>
 </svg>
