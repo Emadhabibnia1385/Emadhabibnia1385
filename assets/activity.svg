@@ -14,7 +14,7 @@
   </style>
   <text x="48" y="54" font-size="12" letter-spacing="2.4" fill="#8C8FD4" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">SHIPPING CADENCE</text>
   <text x="400" y="54" font-size="12" letter-spacing="2.4" fill="#8A8FB8" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">CONTRIBUTIONS PER MONTH · PUBLIC + PRIVATE</text>
-  <text x="1152" y="54" font-size="12" text-anchor="end" fill="#8A8FB8" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">updated 2026-10-10</text>
+  <text x="1152" y="54" font-size="12" text-anchor="end" fill="#8A8FB8" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">updated 2026-10-11</text>
   
   <g transform="translate(48 102)">
     <text font-size="30" font-weight="700" fill="#E9BB79" letter-spacing="-.5">2,208</text>
@@ -22,7 +22,7 @@
   </g>
   <g transform="translate(48 174)">
     <text font-size="30" font-weight="700" fill="#F4F0E8" letter-spacing="-.5">179</text>
-    <text x="0" y="22" font-size="13" fill="#B9C6DE">active days<tspan fill="#8A8FB8">  ·  48% of the year</tspan></text>
+    <text x="0" y="22" font-size="13" fill="#B9C6DE">active days<tspan fill="#8A8FB8">  ·  49% of the year</tspan></text>
   </g>
   <g transform="translate(48 246)">
     <text font-size="30" font-weight="700" fill="#F4F0E8" letter-spacing="-.5">27d</text>
