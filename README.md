@@ -10,7 +10,7 @@
   <a href="https://nyxon.tech/en"><img alt="NYXON" src="https://img.shields.io/badge/NYXON-founder-E9BB79?style=for-the-badge&labelColor=090B14"></a>
   <a href="https://nyxon.tech/en/people/emad-habibnia"><img alt="nyxon.tech" src="https://img.shields.io/badge/r%C3%A9sum%C3%A9-nyxon.tech-C4C6F8?style=for-the-badge&labelColor=090B14"></a>
   <a href="https://github.com/nyxon-tech"><img alt="nyxon-tech" src="https://img.shields.io/badge/org-nyxon--tech-8C8FD4?style=for-the-badge&logo=github&logoColor=white&labelColor=090B14"></a>
-  <img alt="Profile views" src="https://komarev.com/ghpvc/?username=Emadhabibnia1385&label=views&color=636DB6&style=for-the-badge&labelColor=090B14">
+  <img alt="Profile views" src="https://hits.sh/github.com/Emadhabibnia1385.svg?label=views&color=636db6&labelColor=090b14&style=for-the-badge">
 </p>
 
 ### Hi, I'm Emad 👋

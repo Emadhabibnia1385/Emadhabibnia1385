@@ -89,7 +89,7 @@ function render(code) {
   <a href="${t.nyxon}"><img alt="NYXON" src="${badge("NYXON", "founder", "E9BB79")}"></a>
   <a href="https://nyxon.tech/en/people/emad-habibnia"><img alt="nyxon.tech" src="${badge("résumé", "nyxon.tech", "C4C6F8")}"></a>
   <a href="https://github.com/nyxon-tech"><img alt="nyxon-tech" src="${badge("org", "nyxon-tech", "8C8FD4", "github")}"></a>${code === "en" ? `
-  <img alt="Profile views" src="https://komarev.com/ghpvc/?username=Emadhabibnia1385&label=views&color=636DB6&style=for-the-badge&labelColor=090B14">` : ""}
+  <img alt="Profile views" src="https://hits.sh/github.com/Emadhabibnia1385.svg?label=views&color=636db6&labelColor=090b14&style=for-the-badge">` : ""}
 </p>
 
 ${text(`### ${t.hello}
