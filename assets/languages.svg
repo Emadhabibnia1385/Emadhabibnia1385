@@ -10,10 +10,10 @@
   <text x="48" y="54" font-size="12" letter-spacing="2.4" fill="#8C8FD4" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">CODE BY LANGUAGE</text>
   <text x="1152" y="54" font-size="12" text-anchor="end" fill="#8A8FB8" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">11 public repos · 3.8 MB of source</text>
   <rect x="48" y="104" width="1104" height="22" rx="6" fill="#202440"/>
-  <rect x="48" y="104" width="851.0056616719856" height="22" rx="6" fill="#6C8CFF"/>
-  <rect x="902.0056616719856" y="104" width="178.36043800876791" height="22" rx="6" fill="#4FD1C5"/>
-  <rect x="1083.3660996807535" y="104" width="61.605758140939784" height="22" rx="6" fill="#E9BB79"/>
-  <rect x="1147.9718578216932" y="104" width="2" height="22" rx="6" fill="#3B4673"/>
+  <rect x="48" y="104" width="850.9820089861007" height="22" rx="6" fill="#6C8CFF"/>
+  <rect x="901.9820089861007" y="104" width="178.35541501926713" height="22" rx="6" fill="#4FD1C5"/>
+  <rect x="1083.337424005368" y="104" width="61.63454538043564" height="22" rx="6" fill="#E9BB79"/>
+  <rect x="1147.9719693858035" y="104" width="2" height="22" rx="6" fill="#3B4673"/>
   
   <g transform="translate(48 172)">
     <circle cx="6" cy="-5" r="6" fill="#6C8CFF"/>
